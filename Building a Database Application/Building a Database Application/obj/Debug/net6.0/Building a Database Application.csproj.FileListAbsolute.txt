@@ -1,0 +1,22 @@
+C:\Building a Database Application using Microsoft SQL Server and C#\Building a Database Application\Building a Database Application\bin\Debug\net6.0\Building a Database Application.exe
+C:\Building a Database Application using Microsoft SQL Server and C#\Building a Database Application\Building a Database Application\bin\Debug\net6.0\Building a Database Application.deps.json
+C:\Building a Database Application using Microsoft SQL Server and C#\Building a Database Application\Building a Database Application\bin\Debug\net6.0\Building a Database Application.runtimeconfig.json
+C:\Building a Database Application using Microsoft SQL Server and C#\Building a Database Application\Building a Database Application\bin\Debug\net6.0\Building a Database Application.dll
+C:\Building a Database Application using Microsoft SQL Server and C#\Building a Database Application\Building a Database Application\bin\Debug\net6.0\Building a Database Application.pdb
+C:\Building a Database Application using Microsoft SQL Server and C#\Building a Database Application\Building a Database Application\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Building a Database Application using Microsoft SQL Server and C#\Building a Database Application\Building a Database Application\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Building a Database Application using Microsoft SQL Server and C#\Building a Database Application\Building a Database Application\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Building a Database Application using Microsoft SQL Server and C#\Building a Database Application\Building a Database Application\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Building a Database Application using Microsoft SQL Server and C#\Building a Database Application\Building a Database Application\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Building a Database Application using Microsoft SQL Server and C#\Building a Database Application\Building a Database Application\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Building a Database Application using Microsoft SQL Server and C#\Building a Database Application\Building a Database Application\obj\Debug\net6.0\Building a Database Application.csproj.AssemblyReference.cache
+C:\Building a Database Application using Microsoft SQL Server and C#\Building a Database Application\Building a Database Application\obj\Debug\net6.0\Building a Database Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Building a Database Application using Microsoft SQL Server and C#\Building a Database Application\Building a Database Application\obj\Debug\net6.0\Building a Database Application.AssemblyInfoInputs.cache
+C:\Building a Database Application using Microsoft SQL Server and C#\Building a Database Application\Building a Database Application\obj\Debug\net6.0\Building a Database Application.AssemblyInfo.cs
+C:\Building a Database Application using Microsoft SQL Server and C#\Building a Database Application\Building a Database Application\obj\Debug\net6.0\Building a Database Application.csproj.CoreCompileInputs.cache
+C:\Building a Database Application using Microsoft SQL Server and C#\Building a Database Application\Building a Database Application\obj\Debug\net6.0\Building a Database Application.csproj.CopyComplete
+C:\Building a Database Application using Microsoft SQL Server and C#\Building a Database Application\Building a Database Application\obj\Debug\net6.0\Building a Database Application.dll
+C:\Building a Database Application using Microsoft SQL Server and C#\Building a Database Application\Building a Database Application\obj\Debug\net6.0\refint\Building a Database Application.dll
+C:\Building a Database Application using Microsoft SQL Server and C#\Building a Database Application\Building a Database Application\obj\Debug\net6.0\Building a Database Application.pdb
+C:\Building a Database Application using Microsoft SQL Server and C#\Building a Database Application\Building a Database Application\obj\Debug\net6.0\Building a Database Application.genruntimeconfig.cache
+C:\Building a Database Application using Microsoft SQL Server and C#\Building a Database Application\Building a Database Application\obj\Debug\net6.0\ref\Building a Database Application.dll
